@@ -20,7 +20,7 @@ The Power BI dashboard contains interactive pages that let you:
 ### 🖼 Dashboard Preview
 Here is a snapshot of the interactive Power BI dashboard:
 
-![Dashboard Screenshot](https://github.com/NadaManai/Customer-Lifetime-Value-Prediction-Segmentation-for-E-commerce/tree/main/images/Powerbi_Screenshot.png)
+![Dashboard Screenshot](https://github.com/NadaManai/Customer-Lifetime-Value-Prediction-Segmentation-for-E-commerce/tree/main/images/Powerbi_Screenshot.PNG)
 ---
 
 ## 🎯 Customer Segmentation Report (to display verbatim in the dashboard)
