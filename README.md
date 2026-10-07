@@ -10,7 +10,7 @@ This project uses the **Kaggle Online Retail II** dataset to:
 
 ---
 
-## 📊 Dashboards — Sales & CLV (Country-changeable)
+## 📊 Dashboards — Sales & CLV 
 The Power BI dashboard contains interactive pages that let you:
 - Filter sales and CLV metrics **by country** using the country slicer.
 - Inspect **monthly revenue trends**, **cohort analysis**, and **customer segments** per selected country.
